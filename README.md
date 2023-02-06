@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theMosi
-- 👀 I’m interested in javasript, html , css
+- 👀 I’m interested
 - 🌱 I’m currently learning VueJs
 
 <!---
